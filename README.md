@@ -1,7 +1,7 @@
 yo soy
 # Lucas
 
-![yo](foto.jpg)
+![yo](foto.svg)
 
 En esta materia me toca enseñar. 
 ## Links importantes :monocle_face:
